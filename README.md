@@ -15,6 +15,7 @@ Apache Spark is an open-source unified analytics engine for large-scale data pro
 **What is Spark SQL**?<br></br>
 Spark SQL lets you query structured data inside Spark programs, using either SQL or a familiar DataFrame API. Usable in Java, Scala, Python and R.
 DataFrames and SQL provide a common way to access a variety of data sources, including Hive, Avro, Parquet, ORC, JSON, and JDBC. You can even join data across these sources.
+Spark SQL supports the HiveQL syntax as well as Hive SerDes and UDFs, allowing you to access existing Hive warehouses.
 
 
 **Important Note: Go through the book Text before jumping to the code.**
