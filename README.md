@@ -3,7 +3,7 @@
 
 <table>
   
-**In this project We will use Spark with Python to do a great stuff. Here We further more upgraded our WordCount project.We have added the sorted function to give us the result in order like in first it will show the least occuring word and then as we go down we will get the word its increasing count of occurences using our amazing spark**.<br></br>
+**In this project We will use Spark with Python to do a great stuff. Here We further count the occurenece of word using dataframe by using regular expression to filter out or explode each words into different row and have a common single column naming it word.We have added the sorted function to give us the result in order like in first it will show the least occuring word and then as we go down we will get the word its increasing count of occurences using our amazing spark**.<br></br>
 
 **Before jumping to the code lets understand Spark first**...<br></br>
 
@@ -13,7 +13,7 @@ Apache Spark is a multi-language engine for executing data engineering, data sci
 Apache Spark is an open-source unified analytics engine for large-scale data processing. Spark provides an interface for programming clusters with implicit data parallelism and fault tolerance.<br></br>
 
 
-**Important Note: Go through the Book Text before jumping to the code.**
+**Important Note: Go through the book Text before jumping to the code.**
 
 </table>
 
